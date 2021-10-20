@@ -1,0 +1,9 @@
+#排除MACOS隐藏文件
+.DS_Store
+
+#排除firmware中间文件
+
+#排除hardware中间文件
+hardware/quark/History
+hardware/quark/__Previews
+hardware/quark/*.PrjPcbStructure
