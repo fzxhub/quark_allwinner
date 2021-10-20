@@ -1,0 +1,2 @@
+# fzx_quantum_linux
+复刻稚晖君的Quantum项目，并学习Linux相关开发
