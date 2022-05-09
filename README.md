@@ -1,4 +1,4 @@
-# Quark_linux
+# Quark
 
 ## 背景
 
